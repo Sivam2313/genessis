@@ -1,0 +1,15 @@
+{
+  "name": "grid-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@heroicons/react": "^2.0.18",
+    "eslint": "^8.47.0"
+  }
+}
