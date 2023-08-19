@@ -24,12 +24,14 @@ module.exports = {
       onPrimary: "#FFFFFF",
       tertiert: "#7D5260",
       onTertiert: "#FFFFFF",
-      surface: "#FFFBFE",
-      onSurface: "#1C1B1F",
+      surface: "#F2F2F2",
+      onSurface: "#5E5E5E",
+      popup: "#5E5E5EE0",
     },
     fontFamily: {
       head: ["Roboto Slab", "sans-serif"],
       sub: ["Merriweather", "serif"],
+      alt: ["Montserrat", "sans-serif"],
     },
   },
   fontFamily: {

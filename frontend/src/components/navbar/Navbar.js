@@ -19,7 +19,7 @@ const Navbar = () => {
     },
   ]
   return (
-    <nav className="absolute flex flex-col h-screen bg-primaryContainer w-16 items-center justify-center transition-[width] hover:w-2/12 ">
+    <nav className="fixed flex flex-col h-screen bg-primaryContainer w-16 items-center justify-center ">
       {items.map((item, idx) => {
         return (
           <div

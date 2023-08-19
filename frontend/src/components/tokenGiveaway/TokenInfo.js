@@ -10,7 +10,7 @@ const TokenInfo = ({bought,sold}) => {
       <div className="flex justify-evenly items-center">
         <div className="flex flex-col justify-center items-center w-full ml-6">
           <div className="font-head w-full font-extrabold text-4xl text-left p-1 text-primaryText">
-            {bought} ETH
+            {bought} FAT
           </div>
           <div className="font-sub w-full text-sm text-left p-1 text-primaryText">
             Tokens Bought
@@ -18,7 +18,7 @@ const TokenInfo = ({bought,sold}) => {
         </div>
         <div className="flex flex-col justify-center items-center w-full">
           <div className="font-head w-full font-extrabold text-4xl text-left p-1 text-primaryText">
-            {sold} ETH
+            {sold} FAT
           </div>
           <div className="font-sub w-full text-sm text-left p-1 text-primaryText">
             Tokens sold
